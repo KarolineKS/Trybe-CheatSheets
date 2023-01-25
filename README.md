@@ -3,6 +3,8 @@
 Repositório de *cheat sheets* para consultas rápidas.
 
 - **Backend**
+  - **MySQL**
+    - [MySQL - CRUD](backend/mysql/simple-crud.md)
   - **MongoDB**
     - [MongoDB - Aggregration](backend/mongodb/mongodb_aggregation/README.md)
   - **Node.js**
